@@ -1,3 +1,1 @@
-I am a data expert, with a bachelor's degree in Statistics and Master's degree in Business Analytics (Major in Data Science). I am proficient in R, Python, SQL, PowerBI, Excel and Tableau.
-I am a results-oriented Data Analyst with a strong passion for leveraging data as a competitive advantage, Collaborative and analytical thinker experienced in shaping analytics strategies and driving business success. 
-I excel in creating data models, performing complex analysis, and delivering actionable insights to diverse stakeholders. Skilled in maintaining analytical tools, developing reports and dashboards, and effectively communicating findings.
+
